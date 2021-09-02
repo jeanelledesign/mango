@@ -1,0 +1,20 @@
+body {
+  background-color: darkseagreen;
+}
+
+h1{
+  text-align: center;
+  color: oldlace;
+}
+
+a {
+  color: oldlace;
+  text-decoration: none;
+  background: darkseagreen;
+
+}
+
+ul {
+  list-style:none;
+  text-align: center;
+}
