@@ -1,20 +1,23 @@
 body {
-  background-color: darkseagreen;
+  background-image: url('pattern2.jpg');
+
 }
 
 h1{
   text-align: center;
-  color: oldlace;
+  font-family: 'Chakra Petch', sans-serif;
+  color: black;
+  font-size: 100px;
+  text-shadow: 10px 10px 30px #F0FFFF;
 }
 
 a {
-  color: oldlace;
+  color: black;
   text-decoration: none;
-  background: darkseagreen;
-
-}
-
-ul {
-  list-style:none;
-  text-align: center;
+  font-family: 'Chakra Petch', sans-serif;
+  background-color: darkseagreen;
+  font-size: 30px;
+  border-radius: 30px;
+  padding: 15px;
+  margin: 60px;
 }

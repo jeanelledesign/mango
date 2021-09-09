@@ -1,0 +1,22 @@
+img{
+  max-width: 100%;
+}
+
+
+p{
+  background: orangered;
+  font-size: 30px;
+  color: aliceblue;
+  font-family: 'Chakra Petch', sans-serif;
+  border-radius: 20px;
+  padding: 30px;
+  text-shadow: 2px 2px 5px lightcyan;
+  box-shadow: 20px 20px 5px lightgray;
+
+}
+
+.rotate{
+  transform: translateY(10px);
+  color: blue;
+  display: inline-block;
+}
