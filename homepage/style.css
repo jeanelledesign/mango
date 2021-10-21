@@ -1,0 +1,31 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('cards.gif');
+  background-size: 95%;
+}
+
+p{
+font-family: 'Tenali Ramakrishna', sans-serif;
+font-size: 35px;
+color: rgb(25, 140, 92);
+margin-bottom: 5px;
+text-shadow: 2px 2px 12px;
+}
+
+a{
+  font-family: 'Tenali Ramakrishna', sans-serif;
+  font-size: 30px;
+  color: rgb(25, 140, 92);
+}
+
+ul {
+  font-family: 'Tenali Ramakrishna', sans-serif;
+  font-size: 30px;
+  color: rgb(25, 140, 92);
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}

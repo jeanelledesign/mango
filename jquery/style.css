@@ -1,0 +1,25 @@
+*{
+  box-sizing: border-box;
+}
+
+img{
+  max-width: 100%;
+}
+
+.draggable{
+  background: rgb(186, 255, 190);
+  width: 60px;
+  height: 60px;
+  cursor: grab;
+}
+
+.move1{
+  position: fixed;
+  top: 300px;
+  left:400px;
+  transition: transform .5s;
+}
+
+.move1:hover{
+  transform: scale(2);
+}
