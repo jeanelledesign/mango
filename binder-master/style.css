@@ -107,7 +107,7 @@ body {
 
 .about{
 	position: fixed;
-	font-family: courier;
+	font-family: sans-serif;
     letter-spacing: 0.5px;
     font-size: 14px;
     line-height: 19px;
