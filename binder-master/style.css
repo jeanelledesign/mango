@@ -43,6 +43,7 @@ body {
 	padding: 13px;
 	padding-right: 15px;
 	font: 30px/35px sans-serif;
+  font-color: rgb(163, 119, 119);
     letter-spacing: -0.3px;
 	cursor: move;
 	border-style: solid;
