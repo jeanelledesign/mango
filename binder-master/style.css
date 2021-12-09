@@ -42,13 +42,12 @@ body {
 	z-index:10;
 	padding: 13px;
 	padding-right: 15px;
-	font: 15px/20px monospace;
+	font: 30px/35px sans-serif;
     letter-spacing: -0.3px;
 	cursor: move;
-	    box-shadow: #fefb00 3px 3px 0, 6px 6px 0px #ff0000;
 	border-style: solid;
-	border-color: blue;
-	background-color: #eee;
+	border-color: rgb(204, 144, 144);
+	background-color: #d6baba;
 }
 
 #logo {
@@ -168,7 +167,7 @@ body {
 		width: 100%;
 	}
 	#background-site{
-		-webkit-overflow-scrolling:touch; 
+		-webkit-overflow-scrolling:touch;
 		overflow:auto;
 	}
 	#background-site iframe{
@@ -195,7 +194,7 @@ body {
 	#navigation{
 		display: none;
 		text-indent: -1.5em;
-		margin-left:1.5em; 
+		margin-left:1.5em;
 		margin-top: 20px;
 	}
 	#menu-open{
